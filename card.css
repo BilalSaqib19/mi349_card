@@ -34,4 +34,6 @@ width: 100%;
 .contacts li {
 
     width: 30px;
+    display: inline-block;
+    padding: 20px 10px;
 }
