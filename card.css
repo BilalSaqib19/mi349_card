@@ -11,4 +11,6 @@ width: 100%;
 
 .card{
     background-color: #f3f3f3;
+    width: 400px;
+    text-align: center;
 }
